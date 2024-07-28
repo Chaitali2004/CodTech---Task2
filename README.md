@@ -1,8 +1,13 @@
 Name: Chaitali Jain
+
 Company: Codtech It Solutions
+
 ID: CT6WDS1358
+
 Domain: Data Analytics
+
 Duration: July to August 2024
+
 Mentor: Muzammil Ahmed
 
 SOCIAL MEDIA SENTIMENT ANALYSIS
