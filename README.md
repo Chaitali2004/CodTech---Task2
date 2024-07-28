@@ -41,11 +41,11 @@ Exploratory Data Analysis
    
 ![Screenshot 2024-07-26 185734](https://github.com/user-attachments/assets/c74227dc-2025-4a3f-88a6-75aead9cedf7)
 
-3.	Plot review count by star rating
+2.	Plot review count by star rating
    
  ![Screenshot 2024-07-26 205157](https://github.com/user-attachments/assets/755d14cc-4c75-4ac8-b304-6daa67c42e47)
 
-5.	 Basic NLTK Tokenization and Tagging
+3.	 Basic NLTK Tokenization and Tagging
 
 ![Screenshot 2024-07-24 110040](https://github.com/user-attachments/assets/530d8ea1-8066-42ac-bd16-0ea0389770ca)
 Tokenize the sample text
