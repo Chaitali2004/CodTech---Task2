@@ -85,14 +85,14 @@ Sentiment Analysis using VADER and TextBlob
 
 Conclusion
 
-This project successfully demonstrates the application of natural language processing (NLP) techniques to analyze social media data and extract meaningful insights about public sentiment towards various topics, products, or events. By leveraging both the VADER sentiment analysis tool and TextBlob, the analysis captures the nuanced expressions of sentiment in textual data, providing a comprehensive understanding of the overall emotional tone.
+The successful completion of this project proves that NLP techniques can be applied to social media data, and meaningful insights about public sentiment for any topic, product, or event can be correctly elicited. This study considers both VADER Sentiment Analysis Tool and TextBlob, in a way that it manages to underline tenuous expressions of sentiment in the textual data, then drawing out an overview of its emotional tone.
 
-1.	Sentiment Distribution by Rating: Higher-rated reviews show more positive sentiment, indicated by higher compound scores in VADER and higher polarity scores in TextBlob. Lower-rated reviews have more negative sentiment, highlighting the correlation between user satisfaction and expressed sentiment.
-   
-2.	Sentiment Score Distribution: The sentiment score distribution shows a generally balanced spread with a slight skew towards positive sentiment, which may reflect a trend where users are more inclined to share positive experiences or the specific nature of the dataset used.
-   
-3.	Time Series Analysis: The analysis of sentiment scores over time reveals significant trends and potential events influencing public opinion. Monthly average sentiment scores help understand the dynamics of public sentiment in response to specific events or changes in products or services.
-   
-4.	Word Cloud: The word cloud visualization highlights the most frequently occurring words in the reviews, offering an intuitive grasp of dominant themes and topics discussed by users. This complements the sentiment analysis by providing context to the sentiment scores.
-   
-5.	Comparison of VADER and TextBlob Sentiment Scores: The comparison shows that both tools generally align in detecting positive and negative sentiment, with some differences due to their distinct methodologies. VADER's rule-based approach is effective for social media text, while TextBlob's machine learning techniques offer robustness across diverse textual data.
+1.Sentiment Distribution by Rating: Reviews with higher ratings contain more positive sentiment, while those with lower ratings have more negative sentiment. As would be expected, the compound score then needs to be higher in VADER in the former, and the polarity score higher in TextBlob in the latter. This gives evidence for the correlation between user satisfaction and expressed sentiment.
+
+2.Sentiment Score Distribution: Generally, the sentiment score distribution is almost even, but skewed with a bias towards the positive, which may be indicative of users being more likely to share their good experiences or simply a characteristic of the dataset used.
+
+3.Time Series Analysis: The time series analysis will demonstrate key trends and probable events that have driven public opinion. Monthly average sentiment scores help to understand the dynamics of public sentiment in response to certain incidents or changes in products or services.
+
+4.Word Cloud: The word cloud visualization displays the most frequently occurring words in reviews, instinctively conveying dominant themes and topics that users are discussing. This enriches the sentiment analysis by placing context around the sentiment scores.
+
+5.VADER vs. TextBlob sentiment scores: Most of the time, both tools agree on the direction for positive and negative sentiments; only minor differences, if any, creep in due to their methodology. The efficiency of VADER's rule-based approach in social media text offsets the robustness of TextBlob's machine learning across a wide range of textual data.
