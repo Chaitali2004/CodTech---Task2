@@ -13,7 +13,7 @@ Mentor: Muzammil Ahmed
 
 SOCIAL MEDIA SENTIMENT ANALYSIS
 
-This project demonstrates the process of analyzing social media data to understand public sentiment towards specific topics, products, or events using natural language processing (NLP) techniques. The project includes preprocessing text data, extracting sentiment scores using VADER and TextBlob, and visualizing sentiment trends over time.
+This project demonstrates the process of analyzing Amazon Reviewdata to understand public sentiment towards specific topics, products, or events using natural language processing (NLP) techniques. The project includes preprocessing text data, extracting sentiment scores using VADER and TextBlob, and visualizing sentiment trends over time.
 
 Project Overview
 
