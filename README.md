@@ -11,13 +11,13 @@ Duration: July to August 2024
 Mentor: Muzammil Ahmed
 
 
-SOCIAL MEDIA SENTIMENT ANALYSIS
+AMAZON SENTIMENT ANALYSIS
 
-This project demonstrates the process of analyzing Amazon Reviewdata to understand public sentiment towards specific topics, products, or events using natural language processing (NLP) techniques. The project includes preprocessing text data, extracting sentiment scores using VADER and TextBlob, and visualizing sentiment trends over time.
+This project demonstrates the process of analyzing Amazon Review data to understand public sentiment towards specific topics, products, or events using natural language processing (NLP) techniques. The project includes preprocessing text data, extracting sentiment scores using VADER and TextBlob, and visualizing sentiment trends over time.
 
 Project Overview
 
-This project involves a comprehensive analysis of social media reviews, focusing on sentiment analysis to uncover trends, distributions, and relationships within the data. The key objectives are to clean and preprocess the data, perform sentiment analysis using VADER and TextBlob, and visualize the results to gain actionable insights.
+This project involves a comprehensive analysis of Amazon reviews, focusing on sentiment analysis to uncover trends, distributions, and relationships within the data. The key objectives are to clean and preprocess the data, perform sentiment analysis using VADER and TextBlob, and visualize the results to gain actionable insights.
 
 Key Objectives
 
@@ -85,7 +85,7 @@ Sentiment Analysis using VADER and TextBlob
 
 Conclusion
 
-The successful completion of this project proves that NLP techniques can be applied to social media data, and meaningful insights about public sentiment for any topic, product, or event can be correctly elicited. This study considers both VADER Sentiment Analysis Tool and TextBlob, in a way that it manages to underline tenuous expressions of sentiment in the textual data, then drawing out an overview of its emotional tone.
+The successful completion of this project proves that NLP techniques can be applied to Amazon data, and meaningful insights about public sentiment for any topic, product, or event can be correctly elicited. This study considers both VADER Sentiment Analysis Tool and TextBlob, in a way that it manages to underline tenuous expressions of sentiment in the textual data, then drawing out an overview of its emotional tone.
 
 1.Sentiment Distribution by Rating: Reviews with higher ratings contain more positive sentiment, while those with lower ratings have more negative sentiment. As would be expected, the compound score then needs to be higher in VADER in the former, and the polarity score higher in TextBlob in the latter. This gives evidence for the correlation between user satisfaction and expressed sentiment.
 
@@ -95,4 +95,4 @@ The successful completion of this project proves that NLP techniques can be appl
 
 4.Word Cloud: The word cloud visualization displays the most frequently occurring words in reviews, instinctively conveying dominant themes and topics that users are discussing. This enriches the sentiment analysis by placing context around the sentiment scores.
 
-5.VADER vs. TextBlob sentiment scores: Most of the time, both tools agree on the direction for positive and negative sentiments; only minor differences, if any, creep in due to their methodology. The efficiency of VADER's rule-based approach in social media text offsets the robustness of TextBlob's machine learning across a wide range of textual data.
+5.VADER vs. TextBlob sentiment scores: Most of the time, both tools agree on the direction for positive and negative sentiments; only minor differences, if any, creep in due to their methodology. The efficiency of VADER's rule-based approach in Amazon text offsets the robustness of TextBlob's machine learning across a wide range of textual data.
